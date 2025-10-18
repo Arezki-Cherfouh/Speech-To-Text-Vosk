@@ -1,0 +1,1 @@
+A Python script using Vosk and PyAudio to capture live microphone input and convert speech to text. Implements a timeout for detecting pauses in speech and saves the recognized text to a file. Simple, offline, and real-time speech recognition solution.
